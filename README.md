@@ -15,13 +15,11 @@ Sunucu Başlığı / Avatarı
 Sunucu Emojileri
 Sunucu Ayarları
 
-
 İndir
 #install dependencies
 $ pip install
 build for production and launch server
 $ python3 main.py
-
 
 + Kanalları Klonla
 + Kanal İzinleri
